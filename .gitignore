@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+/src/main/java/com/api/Rest/controller/DepartmentController.java
+/src/main/java/com/api/Rest/controller/RestController.java
+/src/main/java/com/api/Rest/entity/Department.java
+/src/main/java/com/api/Rest/entity/ErrorMessage.java
+/src/main/java/com/api/Rest/error/DepartmentNotFoundException.java
+/src/main/java/com/api/Rest/error/RestResponseEntityExceptionHandler.java
+/src/main/java/com/api/Rest/repository/DepartmentRepository.java
+/src/main/java/com/api/Rest/service/DepartmentService.java
+/src/main/java/com/api/Rest/service/DepartmentServiceImp.java
